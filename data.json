@@ -1,32 +1,32 @@
 {
-    "name": "Bharat Agsrwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "name": "Jasleen Randhawa",
+    "title": "Content Writer at IEEE,CIET, Wordpress Develepoer",
+    "intro": "Experienced Content Writer with a demonstrated history of working in the education management industry. Skilled in WordPress, Academies, Fiction, Presentation Skills, and Academic Writing. Strong media and communication professional with a BTech - Bachelor of Technology focused in CSE from Chitkara University.",
     "skills": [{
-            "title": "Skill 1",
+            "title": "Content Writing",
             "rating": "90"
         },
         {
-            "title": "Skill 2",
-            "rating": "97"
+            "title": "Java",
+            "rating": "92"
         },
         {
-            "title": "Skill 3",
+            "title": "C",
+            "rating": "90"
+        },{
+            "title": "HTML/CSS",
             "rating": "85"
         },{
-            "title": "Skill 4",
+            "title": "Wordpress",
             "rating": "80"
         },{
-            "title": "Skill 5",
-            "rating": "78"
-        },{
-            "title": "Skill 6",
-            "rating": "90"
+            "title": "Public Speaking",
+            "rating": "92"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Chitkara University",
+        "phone": "6396600225",
+        "email": "jasleenrandhawa9899@gmail.com"
     }
 }
